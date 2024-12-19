@@ -281,9 +281,199 @@ section{
 
 
 ```
+
+```
+admin :
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ADMINISTRATION</title>
+        <style>
+             body{
+                background-size: 1550px;
+
+                background-repeat: no-repeat;
+                background-color: aquamarine;
+
+            }.image-row {
+                    display: flex;
+                    gap: 1.4%;
+                }
+                .image-row img{
+                    width: 170PX;
+                    height: 180PX;
+
+                }
+                footer {
+                    
+                     color: white;
+                     padding: 2px;
+                     text-align: center;
+                }
+        </style>
+            </head>
+            <center>
+                <body>
+                    
+                   <br><br><br><br>
+                    <h3 style="color: brown;"> OUR MASTERS :</h3>
+        <style>
+            
+        </style>
+        
+        <div  class="image-row">
+            <div>
+                <br><p style="color: brown; font-family: Arial, Helvetica, sans-serif;" >01.ATUL KOCHHAR</p>
+               
+                <b style="color: rgb(234, 36, 36);"> ( Exp: 22 years )</b>
+            </div>
+            <BR><img src="https://th.bing.com/th/id/OIP.29sq3N2575pkvFxArboS8QAAAA?rs=1&pid=ImgDetMain">
+                
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">02.TOBBY MEGUIRE</p>
+                    
+                    <b style="color: rgb(225, 53, 53);"> ( Exp: 8 years )</b>
+                </div>
+                <img src="https://th.bing.com/th/id/OIP.FqhLFiEnV8mZRhdeX82V4QHaE8?w=640&h=427&rs=1&pid=ImgDetMain">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">03.KRISHA YEAGER</p>
+                    
+                    <b style="color:rgb(215, 38, 38);"> ( Exp : 11 years )</b>
+                </div>
+                <img src="https://img.freepik.com/free-photo/low-angle-male-employee-coffee-shop_23-2148366548.jpg">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">04.NATIEL;</p>
+                    
+                    <b style="color: rgb(201, 51, 51);"> ( Exp : 6 years )</b>
+                </div>
+                <img src="https://cdn.shopify.com/s/files/1/0865/4126/files/0BE3A7E4-52D2-4E08-BEC5-09AAB3230AAF.jpg?v=1586354109">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">05.ANDREW GARFIELD</p>
+                    
+                    <b style="color: rgb(176, 42, 42);"> ( Exp : 10 years )</b>
+                </div>
+                <img src="https://s.hdnux.com/photos/70/73/36/14923653/3/rawImage.jpg">
+               
+            </div>
+            <br>
+            <br>
+            <br>
+        </center><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <footer>
+            <p>&copy; 2024 Hungry Bites. All Rights Reserved</p>
+        </footer>
+    </body>
+</html>
+```
+
+```
+about us:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Contact Us </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: aqua;
+            
+            
+        }
+        header {
+
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        .container {
+            width: 45%;
+            margin: 0 auto;
+            padding: 18px;
+        }
+        form {
+            background-color: #7f7b7b;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 8px rgba(192, 183, 183, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input, textarea {
+            width: 96%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #34e386;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: brown;
+        }
+        footer {
+                     
+                     color: white;
+                     padding: 2px;
+                     text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1 style="color: brown;">CONTACT US</h1>
+</header>
+
+<div class="container">
+    <h2 style="color: rgb(213, 112, 53);">We'd love to hear from you!</h2>
+    <form action="#" method="POST">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Your Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Your Message:</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+
+        <button type="submit">Send Message</button>
+    </form>
+</div>
+<footer>
+    <p>&copy; 2024 Hungry Bites. All Rights Reserved</p>
+</footer>
+</body>
+</html>
+
+
+```
+
+
 # OUTPUT:
 ![alt text](<Screenshot (102).png>)
 
 ![alt text](<Screenshot (103).png>)
+
+![Screenshot (108)](https://github.com/user-attachments/assets/7507c9ba-98f8-43f2-a55e-50ae9c2879ee)
+
+  ![Screenshot (108)](https://github.com/user-attachments/assets/674e06e8-6bf7-4f8b-8c6a-eadf98e70617)
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
